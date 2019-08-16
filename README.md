@@ -17,7 +17,7 @@
       example:
             colorscheme badwolf    #badwolf name of them
       
-# Download link of all plugins and Theme used in .vimrc  file
+Download link of all plugins and Theme used in .vimrc  file
 Link for Download All Theme: [https://github.com/rafi/awesome-vim-colorschemes](url) 
 
 Link for Download Plugin nerdtree: https://github.com/scrooloose/nerdtree
