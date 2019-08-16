@@ -1,6 +1,6 @@
 
 # The ~/.vimrc
-**Introduction**
+###Introduction
       Awesome Vim Color Schemes
       A collection of great color schemes for Vim
 
