@@ -7,7 +7,7 @@ A collection of great color schemes for Vim
 # Installation
 Enjoy your favorite packaging manager for installation and enjoy!
 Requirements Directory:
-   mkdir  ~/.vim
+   >mkdir  ~/.vim
    mkdir ~/.vim/colors
    and move the theme file you want to the color file
 
