@@ -1,7 +1,5 @@
 # config_vim
 
-# config_vim
-
 Awesome Vim Color Schemes
 A collection of great color schemes for Vim
 
