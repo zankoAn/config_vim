@@ -14,7 +14,7 @@
       to activate the theme you want
       vi ~/.vimrc and write the name of your theme here
       
-      example:
+      **example:**
             colorscheme badwolf    #badwolf name of them
       
 # link of all plugins and Theme used in .vimrc  file
