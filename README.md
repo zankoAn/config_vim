@@ -3,6 +3,7 @@
 ### Introduction
       Awesome Vim Color Schemes
       A collection of great color schemes for Vim
+![Image] (https://github.com/zan3X/config_vim/blob/master/molokay.jpg)
 
 # configuration
       Enjoy your favorite packaging manager for installation and enjoy!
