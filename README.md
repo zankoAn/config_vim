@@ -1,10 +1,10 @@
 
-# config_vim
+# ~/.vimrc
 
       Awesome Vim Color Schemes
       A collection of great color schemes for Vim
 
-# Installation
+# configuration
       Enjoy your favorite packaging manager for installation and enjoy!
       Requirements Directory:
             mkdir  ~/.vim
