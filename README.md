@@ -18,4 +18,5 @@
 colorscheme badwolf    #badwolf name of them
 # You can then download different colorschemes from the link below
       Link for Download Them : https://github.com/rafi/awesome-vim-colorschemes
-      Link for Download plugin : []url(https://github.com/scrooloose/nerdtree)
+      Link for Download plugin :[https://github.com/scrooloose/nerdtree](url)
+  
