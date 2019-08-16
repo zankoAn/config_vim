@@ -7,17 +7,18 @@
 # Installation
       Enjoy your favorite packaging manager for installation and enjoy!
       Requirements Directory:
-      mkdir  ~/.vim
-      mkdir ~/.vim/colors
-      and move the theme file you want to the color file
+            mkdir  ~/.vim
+            mkdir ~/.vim/colors
+            and move the theme file you want to the color file
 
 # Activate Theme
       to activate the theme you want
       vi ~/.vimrc and write the name of your theme here
+      
       example:
             colorscheme badwolf    #badwolf name of them
       
-# You can then download different colorschemes from the link below
+# Download link of all plugins used in  ****.vimrc  file
 Link for Download All Theme: [https://github.com/rafi/awesome-vim-colorschemes](url) 
 
 Link for Download Plugin nerdtree: [https://github.com/scrooloose/nerdtree](url)
