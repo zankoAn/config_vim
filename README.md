@@ -1,8 +1,8 @@
 
 # config_vim
 
-# Awesome Vim Color Schemes
-# A collection of great color schemes for Vim
+Awesome Vim Color Schemes
+A collection of great color schemes for Vim
 
 # Installation:
    Enjoy your favorite packaging manager for installation and enjoy!
@@ -17,7 +17,7 @@
 #    example:
         colorscheme badwolf    #badwolf name of them#
 # You can then download different colorschemes from the link below:
-  Link for Download Them : https://github.com/rafi/awesome-vim-colorschemes
+  Link for Download Them : https://github.com/rafi/awesome-vim-colorschemes\n
   Link for Download plugin : 
   
 
