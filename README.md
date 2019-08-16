@@ -14,8 +14,8 @@
 # Activate Theme
       to activate the theme you want
       vi ~/.vimrc and write the name of your theme here
-   example:
-      colorscheme badwolf    #badwolf name of them
+      example:
+            colorscheme badwolf    #badwolf name of them
       
 # You can then download different colorschemes from the link below
 Link for Download All Theme: [https://github.com/rafi/awesome-vim-colorschemes](url) 
