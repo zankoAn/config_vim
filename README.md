@@ -6,8 +6,7 @@
       
 ![monokay](https://user-images.githubusercontent.com/45467643/63174735-cf0e0100-c057-11e9-9019-ea71d4b82c66.png)
 
-## configuration
-      Enjoy your favorite packaging manager for installation and enjoy!
+## configuration     
       Requirements Directory:
             mkdir  ~/.vim
             mkdir ~/.vim/colors
