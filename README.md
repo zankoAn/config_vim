@@ -18,13 +18,13 @@
             colorscheme badwolf    #badwolf name of them
       
 # link of all plugins and Theme used in .vimrc  file
-Link for Download All Theme: [https://github.com/rafi/awesome-vim-colorschemes](url) 
+-. Link for Download All Theme: [https://github.com/rafi/awesome-vim-colorschemes](url) 
 
-Link for Download Plugin nerdtree: https://github.com/scrooloose/nerdtree
+-. Link for Download Plugin nerdtree: https://github.com/scrooloose/nerdtree
 
-Link for Download Plugin airline: https://github.com/vim-airline/vim-airline
+-. Link for Download Plugin airline: https://github.com/vim-airline/vim-airline
 
-Link for Download Plugin  identline: https://github.com/Yggdroot/indentLine
+-. Link for Download Plugin  identline: https://github.com/Yggdroot/indentLine
 
 
 
