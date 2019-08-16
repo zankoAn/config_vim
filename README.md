@@ -17,9 +17,9 @@
 #   example
 colorscheme badwolf    #badwolf name of them
 # You can then download different colorschemes from the link below
-Link for Download Them :[https://github.com/rafi/awesome-vim-colorschemes](url)                                          
-Link for Download plugin :[https://github.com/scrooloose/nerdtree](url)
+Link for Download All Theme: [https://github.com/rafi/awesome-vim-colorschemes](url)                                          
+Link for Download Plugin nerdtree: [https://github.com/scrooloose/nerdtree](url)
+Link for Download Plugin airline: [https://github.com/vim-airline/vim-airline](url)
+Link for Download Plugin  identline: [https://github.com/Yggdroot/indentLine](url)
 
 
-
-  
