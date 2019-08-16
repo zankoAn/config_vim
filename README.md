@@ -12,8 +12,8 @@ Requirements Directory:
    and move the theme file you want to the color file
 
 # Activate Theme
-to activate the theme you want																															
-vi ~/.vimrc and write the name of your theme here#
+      to activate the theme you want																															
+      vi ~/.vimrc and write the name of your theme here#
 #   example
 colorscheme badwolf    #badwolf name of them
 # You can then download different colorschemes from the link below
