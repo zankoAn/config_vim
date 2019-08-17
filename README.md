@@ -5,6 +5,8 @@
       A collection of great color schemes for Vim
       
 ![monokay](https://user-images.githubusercontent.com/45467643/63174735-cf0e0100-c057-11e9-9019-ea71d4b82c66.png)
+![conf_vim](https://user-images.githubusercontent.com/45467643/63213860-81ac9500-c126-11e9-8015-5c9a27810c75.png)
+
 
 ## configuration     
       Requirements Directory:
