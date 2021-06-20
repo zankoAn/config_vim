@@ -4,15 +4,15 @@
       Awesome Vim Color Schemes
       A collection of great color schemes for Vim
       
-![monokay](https://user-images.githubusercontent.com/45467643/63174735-cf0e0100-c057-11e9-9019-ea71d4b82c66.png)
-![conf_vim](https://user-images.githubusercontent.com/45467643/63213860-81ac9500-c126-11e9-8015-5c9a27810c75.png)
 
+![conf_vim](https://user-images.githubusercontent.com/45467643/122675788-3ebf1b00-d1f0-11eb-9214-3c61c5be4be5.png)
 
 ## configuration     
       Requirements Directory:
             mkdir  ~/.vim
             mkdir ~/.vim/colors
-            and move the theme file you want to the color file
+            and move the color in theme file you want to the color file in vim
+            theme the rest of the theme files in the ~/.vim file
 
 ## Activate Theme
       to activate the theme you want
@@ -22,14 +22,17 @@
             colorscheme badwolf    #badwolf name of them
       
 ## link of all plugins and Theme used in .vimrc  file
-- Link for Download All Theme: https://github.com/rafi/awesome-vim-colorschemes
+- Link for Download All Theme:                https://github.com/rafi/awesome-vim-colorschemes
 
-- Link for Download Plugin nerdtree: https://github.com/scrooloose/nerdtree
+- Link for Download Plugin  nerdtree:         https://github.com/scrooloose/nerdtree
 
-- Link for Download Plugin airline: https://github.com/vim-airline/vim-airline
+- Link for Download Plugin  airline:          https://github.com/vim-airline/vim-airline
 
-- Link for Download Plugin  identline: https://github.com/Yggdroot/indentLine
+- Link for Download Plugin  identline:        https://github.com/Yggdroot/indentLine
 
+- Link for Download Plugin  jedi for python:  https://github.com/davidhalter/jedi-vim.git
+
+- Link for Download Plugin  js:               https://github.com/pangloss/vim-javascript
 
 
 
