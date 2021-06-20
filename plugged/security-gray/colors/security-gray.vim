@@ -16,7 +16,7 @@ hi Comment      cterm=NONE        ctermfg=60     ctermbg=NONE    " Comments
 hi Constant     cterm=bold        ctermfg=172     ctermbg=None    " Any constant
 
 hi Cursor       cterm=None        ctermfg=40       ctermbg=237    "  
-hi CursorLine   cterm=None        ctermfg=198    ctermbg=none"236    "Color suggested function Inactive arguments
+hi CursorLine   cterm=None        ctermfg=198    ctermbg=none     "236| Color suggested function Inactive arguments
 hi StatusLineNC cterm=None        ctermfg=40       ctermbg=237    " suggested active args(func)
 hi CursorLineNr cterm=bold        ctermfg=198      ctermbg=None   " active current line number
 
