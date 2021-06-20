@@ -7,12 +7,10 @@
 
 ![conf_vim](https://user-images.githubusercontent.com/45467643/122675788-3ebf1b00-d1f0-11eb-9214-3c61c5be4be5.png)
 
-## configuration     
-      Requirements Directory:
-            mkdir  ~/.vim
-            mkdir ~/.vim/colors
-            and move the color in theme file you want to the color file in vim
-            theme the rest of the theme files in the ~/.vim file
+## configuration 
+     mkdir ~/.vim
+     mv .vimrc ~/
+     mv plugged after colors ~/.vim/
 
 ## Activate Theme
       to activate the theme you want
