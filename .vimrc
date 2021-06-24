@@ -228,3 +228,10 @@ endfunction
 nnoremap <C-t> : call Toggle_transparent()<CR>
 
 
+
+" remembering last position(line)
+if has("autocmd")
+    au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+endif
+
+
